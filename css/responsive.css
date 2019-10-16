@@ -3,6 +3,16 @@
     .message-box > a {
         width: 80px;
     }
+
+    .carousel-inner{
+
+        height: calc(100% - 380px);
+        width: calc(100% - 180px);
+        left: 120px;
+        right: 60px;
+        padding-right: 45px;
+
+    }
     .message-box > a {
         height: 80px;
     }
